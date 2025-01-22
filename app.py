@@ -3,7 +3,7 @@ import google.generativeai as genai
 import random
 
 # Make sure your Google API key is set
-api_key = "AIzaSyB9bFMiPAxAgVfTTo-S58TA02ToGYIDBVQ"  # Replace this with your actual API key
+api_key =   # Replace this with your actual API key
 if api_key:
     genai.configure(api_key=api_key)
 else:
